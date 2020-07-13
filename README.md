@@ -17,9 +17,19 @@ Ansible Labs brings you tutorials that help you get hands-on experience using An
 # Ansible Workshop/Labs
 
 - [Getting Started: Why, What & How about Ansible?](getting-started/README.md) 
-
+- [Use Cases]()
+  - Provisioning
+  - Configuration Management
+  - App Deployment
+  - Continuous Delivery
+  - Security Automation
+  - Orchestration
    
-   - [Use cases of Ansible](getting-started/use-cases.md)
-   - [Terraform Vs Ansible]()
-   
 
+# Beginners Track
+
+
+# Intermediate Track
+
+
+# Advanced Track
